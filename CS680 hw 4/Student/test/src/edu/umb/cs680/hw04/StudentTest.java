@@ -38,7 +38,7 @@ class StudentTest {
 	@Test
 	public void OutStateStudentVerification() {
 		String[] expected = {"Charlie", "Boston Downtown", "22"};
-		Student actual= StudentFactory.createInStateStudent("Charlie", "Boston Downtown", 22);
+		Student actual= StudentFactory.createOutStateStudent("Charlie", "Boston Downtown", 22);
 		assertArrayEquals(expected, OutStateStudentToArray(actual));	
 	}
 	
