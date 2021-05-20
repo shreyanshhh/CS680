@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw13.StockTest
+Test: DJIAEquality() took 3 milli sec(s)
+Tests run: 1, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 9 milli sec(s)
+------------- Standard Output ---------------
+3D of StockEvent: abc 20.03D of StockEvent: abc 20.0PieChart of StockEvent: abc 20.03D of StockEvent: pqr 15.03D of StockEvent: pqr 15.0PieChart of StockEvent: pqr 15.0------------- ---------------- ---------------
